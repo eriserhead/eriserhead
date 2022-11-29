@@ -7,8 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/rendelljohnerise/home](https://sites.google.com/view/rendelljohnerise/home)
 
 - 📫 How to reach me **rendell.erise@proton.me**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eriserhead&label=Profile%20views&color=0e75b6&style=flat" alt="eriserhead" /> </p> https://img.shields.io/github/followers/eriserhead 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eriserhead&label=Profile%20views&color=0e75b6&style=flat" alt="eriserhead" /> </p>  
+<p align="left"> <img src="https://img.shields.io/github/followers/eriserhead?style=social" alt="eriserhead" /> </p>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
