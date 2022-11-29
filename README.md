@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Programmer and Entrepreneur</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriserhead&label=Profile%20views&color=0e75b6&style=flat" alt="eriserhead" /> </p>
-p align="left"> <img src="https://img.shields.io/github/followers/eriserhead" alt="eriserhead" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/eriserhead" alt="eriserhead" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/rendelljohnerise/home](https://sites.google.com/view/rendelljohnerise/home)
 
