@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" alt="eriserhead" /> </p>
-<h1 align="center">Hi 👋, I'm Rendell John Erise</h1>
+<h1 align="center">Hi 👋, I'm Dell</h1>
 <h3 align="center">Aspiring Programmer and Entrepreneur</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
